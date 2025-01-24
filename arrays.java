@@ -22,6 +22,8 @@ public class arrays {
 
         System.out.println("The Total is : " + total);
 
+        // This is just an update for a commit on a new machine
+
 
 
 
